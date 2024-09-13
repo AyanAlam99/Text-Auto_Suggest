@@ -13,28 +13,6 @@ To install the required dependencies, run the following command:
 ```bash
 pip install tensorflow numpy
 ```
-
-
-Memory updated
-Here's a README.md file for your text generation model using LSTM in TensorFlow/Keras:
-
-md
-Copy code
-# Text Generation with LSTM
-
-## Introduction
-This project implements a text generation model using LSTM (Long Short-Term Memory) in TensorFlow/Keras. The model takes a sequence of words and predicts the next word in the sequence, which can be used for generating text based on input sentences.
-
-## Dependencies
-- TensorFlow (>=2.0)
-- Keras (included in TensorFlow)
-- NumPy (for numerical computations)
-
-## Installation
-To install the required dependencies, run the following command:
-```bash
-pip install tensorflow numpy
-```
 ## Model Architecture
 The model follows a sequential structure with the following layers:
 
